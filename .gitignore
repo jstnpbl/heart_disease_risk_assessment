@@ -1,0 +1,25 @@
+# Ignore virtual environment folder
+venv/
+
+# Ignore compiled Python files
+__pycache__/
+*.py[cod]
+
+# Ignore IDE-specific settings
+.idea/
+.vscode/
+
+# Ignore log files
+*.log
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore Streamlit cache
+.streamlit/cache/
+.streamlit/sessions/
+
+# Ignore environment and key files (sensitive data)
+.env
+*.key

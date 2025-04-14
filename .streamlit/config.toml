@@ -1,0 +1,19 @@
+[theme]
+primaryColor = "#D72638"  # A deeper red for a premium feel (Accent Color)
+backgroundColor = "#FAFAFA"  # Modern light gray for a clean look (Subtle Background Color)
+secondaryBackgroundColor = "#FFFFFF"  # White for contrast in sections (Sidebar Background)
+textColor = "#333333"  # Dark gray for better readability
+font = "sans serif"  # Keep it simple
+
+# Attempting to influence header appearance (may not work directly)
+# headingColor = "#D72638"
+
+# You can try adjusting widget borders (part of minimalistic design)
+widgetBorderColor = "#CCCCCC"
+widgetBorderWidth = 1
+
+# You can try influencing the selection color
+# accentColor = "#D72638"
+
+# Base theme (light or dark)
+base = "light"
