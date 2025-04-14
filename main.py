@@ -7,7 +7,7 @@ import pandas as pd
 # Set up the favicon and page title
 st.set_page_config(
     page_title="Heart Disease Risk Assessment",  # Title of the tab
-    page_icon="C:/Users/johnr/NEW/HeartDiseaseRisk/img/icon.jpg",  # Path to your favicon file
+    page_icon="img/icon.jpg",  # Path to your favicon file
 )
 
 # Load the dataset (adjust path as needed)
@@ -206,7 +206,7 @@ st.write("Welcome to Lifeline! Use this tool to check your cardiovascular health
 
 # Sidebar Section
 st.sidebar.image(
-    "C:/Users/johnr/NEW/HeartDiseaseRisk/img/system_logo.jpg",  # Replace with the actual file name
+    "img/system_logo.jpg",  # Replace with the actual file name
     use_container_width=True,  # Updated parameter for proper resizing
     caption="**Assess. Act. Achieve a healthier future.**"  # Optional caption
 )
