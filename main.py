@@ -206,7 +206,7 @@ st.write("Welcome to Lifeline! Use this tool to check your cardiovascular health
 
 # Sidebar Section
 st.sidebar.image(
-    "https://cdn.pixabay.com/photo/2017/01/31/13/14/heart-2029722_1280.png",  # Replace with the actual file name
+    "img/system_logo.jpg",  # Replace with the actual file name
     use_container_width=True,  # Updated parameter for proper resizing
     caption="**Assess. Act. Achieve a healthier future.**"  # Optional caption
 )
